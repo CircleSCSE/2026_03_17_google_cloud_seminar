@@ -1,5 +1,12 @@
 # 2026-03-17 : 구글 클라우드 세미나 
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/15aac9d2-36e6-45bd-901e-076a2650232e" width="700" alt="사이트_실행">
+</div>
+
+
+
+
 - 할 것 : Vertex AI로 에이전트 써보기
 
 ---
